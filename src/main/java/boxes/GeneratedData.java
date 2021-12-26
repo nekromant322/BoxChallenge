@@ -1,3 +1,5 @@
+package boxes;
+
 public class GeneratedData {
     /**
      * Массив со сгенерированными коробками
