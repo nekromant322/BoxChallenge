@@ -1,3 +1,5 @@
+package box;
+
 import java.util.*;
 
 public class Box{
